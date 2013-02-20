@@ -2,6 +2,12 @@ This sample application demonstrates the use HTML5 Web SQL storage.
 The sample demonstrates how to use the HTML5 Web SQL storage features, how to set the
 key value pairs and how to retrieve the Key value pairs using Web SQL storage.
 
+Intel(R) HTML5 Development Environment Beta
+-------------------------------------------
+This sample is part of the Intel(R) HTML5 Development Environment tool. 
+Please sign up the beta at http://software.intel.com/en-us/html5.
+To see the technical detail of the sample, please visit the sample article page 
+at http://software.intel.com/en-us/articles/html5-local-storage. 
 
 License Information Follows
 ---------------------------
